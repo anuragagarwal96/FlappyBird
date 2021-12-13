@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-# <img width="64" height="64" src="./.extra/logo.png"> &nbsp; FlappyBird -
+# <img width="64" height="64" src="./.extra/logo.jpg"> &nbsp; FlappyBird -
 
 This project is an exact replica of the famous game [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). The project uses Android Studio as the Integrated Development Environment and Lib GDX as its Game Engine. The programming language used is Java. The entire game has been built from scratch including the hurdles, the bird, the background etc. 
 
@@ -12,13 +12,13 @@ The software used for building the graphics was Adobe XD. This project was build
 
 <p align="center">
 
-<img width="480" height="480" src="./.extra/2.png">
+<img width="480" height="480" src="./.extra/img_2.png">
 <br>
 
-<img width="480" height="480" src="./.extra/3.png">
+<img width="480" height="480" src="./.extra/img_3.png">
 <br>
 
-<img width="480" height="480" src="./.extra/1.png">
+<img width="480" height="480" src="./.extra/img_1.png">
 <br>
 
 [![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg )]( https://github.com/shashank3199 )<br>
