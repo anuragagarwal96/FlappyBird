@@ -12,13 +12,13 @@ The software used for building the graphics was Adobe XD. This project was build
 
 <p align="center">
 
-<img width="480" height="480" src="./.extra/img_2.png">
+<img width="320" height="480" src="./.extra/img_2.png">
 <br>
 
-<img width="480" height="480" src="./.extra/img_3.png">
+<img width="320" height="480" src="./.extra/img_3.png">
 <br>
 
-<img width="480" height="480" src="./.extra/img_1.png">
+<img width="320" height="480" src="./.extra/img_1.png">
 <br>
 
-[![Developers Tag]( https://img.shields.io/badge/Developer-shashank3199-red.svg )]( https://github.com/shashank3199 )<br>
+[![Developers Tag]( https://img.shields.io/badge/Developer-anuragagarwal96-black.svg )]( https://github.com/anuragagarwal97 )<br>
